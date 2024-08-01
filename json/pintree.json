@@ -48,21 +48,21 @@
             "type": "link",
             "addDate": 1717748428000,
             "title": "Anime Garden 動漫花園資源網第三方镜像站",
-            "icon": "https://garden.onekuma.cn",
+            "icon": "https://garden.onekuma.cn/favicon.svg",
             "url": "https://garden.onekuma.cn/"
           },
           {
             "type": "link",
             "addDate": 1718328534000,
             "title": "爱盼-网盘资源搜索",
-            "icon": "https://so.aicompasspro.com",
+            "icon": "https://so.aicompasspro.com/favicon.ico",
             "url": "https://so.aicompasspro.com/"
           },
           {
             "type": "link",
             "addDate": 1721271847000,
             "title": "图欧学习资源导航 - 终身学习者的导航站",
-            "icon": "https://tuostudy.upnb.top/wp-content/themes/onenav/images",
+            "icon": "https://tuostudy.upnb.top/wp-content/themes/onenav/images/favicon.png",
             "url": "https://tuostudy.upnb.top/"
           },
           {
@@ -76,7 +76,7 @@
             "type": "link",
             "addDate": 1719819331000,
             "title": "RSS",
-            "icon": "http://yhxyiot.com:8008",
+            "icon": "http://yhxyiot.com:8008/favicon.ico",
             "url": "http://yhxyiot.com:8008"
           }
         ]
@@ -104,14 +104,14 @@
             "type": "link",
             "addDate": 1715737965000,
             "title": "HF-Mirror - Huggingface 镜像站",
-            "icon": "https://hf-mirror.com",
+            "icon": "https://hf-mirror.com/favicon.ico",
             "url": "https://hf-mirror.com/"
           },
           {
             "type": "link",
             "addDate": 1712731640000,
             "title": "AI图片生成与搜索 - 快速且免费 | AI Image Generator/Search",
-            "icon": "https://www.ai-img-gen.com",
+            "icon": "https://www.ai-img-gen.com/favicon.ico",
             "url": "https://www.ai-img-gen.com/lang/zh/"
           },
           {
@@ -125,7 +125,7 @@
             "type": "link",
             "addDate": 1713863815000,
             "title": "智谱清言",
-            "icon": "https://chatglm.cn/img/icons",
+            "icon": "https://chatglm.cn/img/icons/favicon.svg",
             "url": "https://chatglm.cn/main/alltoolsdetail"
           },
           {
@@ -160,14 +160,14 @@
             "type": "link",
             "addDate": 1721005567000,
             "title": "ChatTTS中文版 - ChatTTS免费在线使用文本转语音,多线路可选",
-            "icon": "https://chattts.lingandata.com",
+            "icon": "https://chattts.lingandata.com/favicon.ico",
             "url": "https://chattts.lingandata.com/"
           },
           {
             "type": "link",
             "addDate": 1718184168000,
             "title": "绘图提示：AI驱动的提示生成器",
-            "icon": "https://drawing-prompt.com",
+            "icon": "https://drawing-prompt.com/favicon.ico",
             "url": "https://drawing-prompt.com/zh-Hans"
           }
         ]
