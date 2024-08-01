@@ -162,11 +162,12 @@
             "title": "ChatTTS中文版 - ChatTTS免费在线使用文本转语音,多线路可选",
             "icon": "https://logo.clearbit.com/chattts.lingandata.com",
             "url": "https://chattts.lingandata.com/"
-          },{
+          },
+          {
             "type": "link",
             "addDate": 1718184168000,
             "title": "绘图提示：AI驱动的提示生成器",
-            "icon": "https://drawing-prompt.com/favicon.svg",
+            "icon": "https://drawing-prompt.com",
             "url": "https://drawing-prompt.com/zh-Hans"
           }
         ]
