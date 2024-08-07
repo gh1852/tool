@@ -169,6 +169,13 @@
             "title": "绘图提示：AI驱动的提示生成器",
             "icon": "https://drawing-prompt.com/favicon.ico",
             "url": "https://drawing-prompt.com/zh-Hans"
+          },
+          {
+            "type": "link",
+            "addDate": 1718184169000,
+            "title": "FAIG 是 Flux AI Image Generator，是由 Black Forest Labs 开发的最先进的文本到图像生成模型。它根据文本提示创建高质量图像，利用先进的人工智能技术生成逼真而艺术的视觉效果。",
+            "icon": "https://fluxaiimagegenerator.com/_next/image?url=%2Ficon.png&w=64&q=75",
+            "url": "https://fluxaiimagegenerator.com/zh"
           }
         ]
       }
