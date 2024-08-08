@@ -78,6 +78,13 @@
             "title": "RSS",
             "icon": "http://yhxyiot.com:8008/favicon.ico",
             "url": "http://yhxyiot.com:8008"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "网站仅作为个人网络书签，不构成工具网站或导航",
+            "icon": "https://favorites.pages.dev/favicon.ico",
+            "url": "https://favorites.pages.dev"
           }
         ]
       },
