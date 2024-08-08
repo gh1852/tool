@@ -85,6 +85,13 @@
             "title": "网站仅作为个人网络书签，不构成工具网站或导航",
             "icon": "https://favorites.pages.dev/favicon.ico",
             "url": "https://favorites.pages.dev"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "可爱TV - 影视在线搜索库",
+            "icon": "https://keai.cm/favicon.ico",
+            "url": "https://keai.cm"
           }
         ]
       },
