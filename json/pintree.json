@@ -99,6 +99,20 @@
             "title": "分享有用经验，打破信息茧房",
             "icon": "https://yyjingyan.com/logo.jpg",
             "url": "https://yyjingyan.com"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "Applnn - 有趣分享从这里开始！",
+            "icon": "https://www.applnn.cc/wp-content/uploads/2022/12/cropped-APP-1-32x32.png",
+            "url": "https://www.applnn.cc"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "不死鸟 - 分享为王官网",
+            "icon": "https://npm.elemecdn.com/niaosu@3.3.5/logo.png",
+            "url": "https://iui.su/"
           }
         ]
       },
