@@ -113,6 +113,13 @@
             "title": "不死鸟 - 分享为王官网",
             "icon": "https://npm.elemecdn.com/niaosu@3.3.5/logo.png",
             "url": "https://iui.su/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "IceBeer 输出我做独立开发和对互联网的一些思考",
+            "icon": "https://www.icebeer.top/wp-content/uploads/2024/04/160@2x-2.png",
+            "url": "https://www.icebeer.top/"
           }
         ]
       },
