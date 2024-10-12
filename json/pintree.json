@@ -127,6 +127,13 @@
             "title": "TVBoxOSC",
             "icon": "https://github.com",
             "url": "https://github.com/o0HalfLife0o/TVBoxOSC"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "各种源 大型整合",
+            "icon": "https://source.zgqinc.gq/",
+            "url": "https://source.zgqinc.gq/"
           }
         ]
       },
