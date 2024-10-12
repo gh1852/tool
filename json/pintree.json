@@ -120,6 +120,13 @@
             "title": "IceBeer 输出我做独立开发和对互联网的一些思考",
             "icon": "https://www.icebeer.top/wp-content/uploads/2024/04/160@2x-2.png",
             "url": "https://www.icebeer.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "TVBoxOSC",
+            "icon": "https://github.com",
+            "url": "https://github.com/o0HalfLife0o/TVBoxOSC"
           }
         ]
       },
