@@ -125,22 +125,29 @@
             "type": "link",
             "addDate": 1719819331000,
             "title": "TVBoxOSC",
-            "icon": "https://github.com",
+            "icon": "https://github.com/favicon.ico",
             "url": "https://github.com/o0HalfLife0o/TVBoxOSC"
           },
           {
             "type": "link",
             "addDate": 1719819331000,
             "title": "各种源 大型整合",
-            "icon": "https://source.zgqinc.gq/",
+            "icon": "https://source.zgqinc.gq/favicon.ico",
             "url": "https://source.zgqinc.gq/"
           },
           {
             "type": "link",
             "addDate": 1719819331000,
             "title": "URLyzer: 强大的URL元数据提取工具",
-            "icon": "https://urlyzer.com/",
+            "icon": "https://urlyzer.com/favicon.ico",
             "url": "https://urlyzer.com/zh/get-metadata-from-url"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "网站合集 | 好网站不私藏",
+            "icon": "https://www.207788.xyz/favicon.ico",
+            "url": "https://www.207788.xyz/"
           }
         ]
       },
