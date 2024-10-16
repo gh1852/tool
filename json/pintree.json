@@ -131,13 +131,6 @@
           {
             "type": "link",
             "addDate": 1719819331000,
-            "title": "各种源 大型整合",
-            "icon": "https://source.zgqinc.gq/favicon.ico",
-            "url": "https://source.zgqinc.gq/"
-          },
-          {
-            "type": "link",
-            "addDate": 1719819331000,
             "title": "URLyzer: 强大的URL元数据提取工具",
             "icon": "https://urlyzer.com/favicon.ico",
             "url": "https://urlyzer.com/zh/get-metadata-from-url"
