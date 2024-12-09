@@ -153,8 +153,22 @@
             "type": "link",
             "addDate": 1719819331000,
             "title": "Youtube4KDownloader在线视频下载器",
-            "icon": "https://youtube4kdownloader.com//favicon.ico",
+            "icon": "https://youtube4kdownloader.com/favicon.ico",
             "url": "https://youtube4kdownloader.com/zh112/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "cloudflare",
+            "icon": "https://dash.cloudflare.com/favicon.ico",
+            "url": "https://dash.cloudflare.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "Flist",
+            "icon": "https://flist-bny.pages.dev/favicon.ico",
+            "url": "https://flist-bny.pages.dev/"
           }
         ]
       },
