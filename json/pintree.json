@@ -40,23 +40,16 @@
           {
             "type": "link",
             "addDate": 1716520066000,
-            "title": "UP云搜 - 最全阿里云盘资源搜索神器",
-            "icon": "https://cdn.tkk78.com/upyunso/web_static/static/img/upso_mlogo.png",
-            "url": "https://www.upyunso.com/"
+            "title": "猫狸盘搜 - 最全阿里云盘资源搜索神器",
+            "icon": "https://www.alipansou.com/",
+            "url": "https://www.alipansou.com/"
           },
           {
             "type": "link",
             "addDate": 1717748428000,
             "title": "Anime Garden 動漫花園資源網第三方镜像站",
-            "icon": "https://garden.onekuma.cn/favicon.svg",
-            "url": "https://garden.onekuma.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1718328534000,
-            "title": "爱盼-网盘资源搜索",
-            "icon": "https://so.aicompasspro.com/favicon.ico",
-            "url": "https://so.aicompasspro.com/"
+            "icon": "https://dongmanhuayuan.myheartsite.com/",
+            "url": "https://dongmanhuayuan.myheartsite.com/"
           },
           {
             "type": "link",
@@ -162,6 +155,13 @@
             "title": "Flist",
             "icon": "https://flist-bny.pages.dev/favicon.ico",
             "url": "https://flist-bny.pages.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "二级域名",
+            "icon": "https://zone.id/",
+            "url": "https://zone.id/"
           }
         ]
       },
