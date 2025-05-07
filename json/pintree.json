@@ -190,6 +190,13 @@
             "title": "google vsp",
             "icon": "https://idx.google.com/favicon.ico",
             "url": "https://idx.google.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "freshrss",
+            "icon": "https://freshrss.zone.id/favicon.ico",
+            "url": "https://freshrss.zone.id"
           }
         ]
       },
