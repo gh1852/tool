@@ -194,6 +194,13 @@
           {
             "type": "link",
             "addDate": 1719819331000,
+            "title": "claw.cloud",
+            "icon": "https://eu-central-1.run.claw.cloud/favicon.ico",
+            "url": "https://eu-central-1.run.claw.cloud/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
             "title": "freshrss",
             "icon": "https://freshrss.zone.id/favicon.ico",
             "url": "https://freshrss.zone.id"
