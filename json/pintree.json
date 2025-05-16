@@ -204,6 +204,13 @@
             "title": "freshrss",
             "icon": "https://freshrss.zone.id/favicon.ico",
             "url": "https://freshrss.zone.id"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "Cloudreve",
+            "icon": "https://cloudreve.zone.id/favicon.ico",
+            "url": "https://cloudreve.zone.id"
           }
         ]
       },
