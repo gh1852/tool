@@ -211,6 +211,13 @@
             "title": "Cloudreve",
             "icon": "https://cloudreve.zone.id/favicon.ico",
             "url": "https://cloudreve.zone.id"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "cloudns",
+            "icon": "https://www.cloudns.net/favicon.ico",
+            "url": "https://www.cloudns.net"
           }
         ]
       },
