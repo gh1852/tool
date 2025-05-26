@@ -232,6 +232,13 @@
             "title": "私有云资源搜索",
             "icon": "https://saver.zone.id/favicon.ico",
             "url": "https://saver.zone.id"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "国内优惠",
+            "icon": "https://youhui.bacaoo.com/favicon.ico",
+            "url": "https://youhui.bacaoo.com"
           }
         ]
       },
