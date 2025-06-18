@@ -239,6 +239,20 @@
             "title": "国内优惠",
             "icon": "https://youhui.bacaoo.com/favicon.ico",
             "url": "https://youhui.bacaoo.com"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "OhCar线报",
+            "icon": "https://xb.teem9.cn/assets/ico/favicon-CDJFWjBE.ico",
+            "url": "https://xb.teem9.cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "线报酷",
+            "icon": "https://new.xianbao.fun/favicon.ico",
+            "url": "https://urlyzer.com"
           }
         ]
       },
