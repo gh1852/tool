@@ -242,6 +242,13 @@
           },
           {
             "type": "link",
+            "addDate": 1748918209027,
+            "title": "Readme i18n",
+            "icon": "https://www.readme-i18n.com/icon.png",
+            "url": "https://www.readme-i18n.com"
+          },
+          {
+            "type": "link",
             "addDate": 1719819331000,
             "title": "OhCar线报",
             "icon": "https://xb.teem9.cn/assets/ico/favicon-CDJFWjBE.ico",
