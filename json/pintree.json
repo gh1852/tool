@@ -235,6 +235,13 @@
           },
           {
             "type": "link",
+            "addDate": 1719819331000,
+            "title": "哈基米 Balance",
+            "icon": "https://gemini.jons.ip-ddns.com/static/icons/icon-192x192.png",
+            "url": "https://jons.zone.id/slb"
+          },
+          {
+            "type": "link",
             "addDate": 1748918209027,
             "title": "国内优惠",
             "icon": "https://youhui.bacaoo.com/favicon.ico",
