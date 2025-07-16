@@ -267,6 +267,20 @@
             "title": "线报酷",
             "icon": "https://new.xianbao.fun/favicon.ico",
             "url": "https://new.xianbao.fun"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "在线服务器",
+            "icon": "https://dockerlabs.collabnix.com",
+            "url": "https://dockerlabs.collabnix.com"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "mypt",
+            "icon": "https://cc.mypt.cc",
+            "url": "https://cc.mypt.cc"
           }
         ]
       },
