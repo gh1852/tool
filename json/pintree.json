@@ -414,6 +414,13 @@
             "title": "QWQ AI",
             "icon": "https://qwq32.com",
             "url": "https://qwq32.com"
+          },
+          {
+            "type": "link",
+            "addDate": 1718184169000,
+            "title": "竞技场",
+            "icon": "https://lmarena.ai/",
+            "url": "https://lmarena.ai"
           }
         ]
       }
