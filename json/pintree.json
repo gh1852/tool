@@ -281,6 +281,13 @@
             "title": "mypt",
             "icon": "https://cc.mypt.cc",
             "url": "https://cc.mypt.cc"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "hotellist",
+            "icon": "https://tonkiang.us",
+            "url": "https://tonkiang.us"
           }
         ]
       },
@@ -413,3 +420,4 @@
     ]
   }
 ]
+
