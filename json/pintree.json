@@ -419,8 +419,15 @@
             "type": "link",
             "addDate": 1718184169000,
             "title": "竞技场",
-            "icon": "https://lmarena.ai/",
+            "icon": "https://lmarena.ai",
             "url": "https://lmarena.ai"
+          },
+          {
+            "type": "link",
+            "addDate": 1718184169000,
+            "title": "香蕉提示词",
+            "icon": "https://image-generation.zenfeed.xyz",
+            "url": "https://image-generation.zenfeed.xyz"
           }
         ]
       }
