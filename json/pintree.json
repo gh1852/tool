@@ -288,6 +288,13 @@
             "title": "hotellist",
             "icon": "https://tonkiang.us",
             "url": "https://tonkiang.us"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "源码搜索",
+            "icon": "https://grep.app/",
+            "url": "https://grep.app"
           }
         ]
       },
