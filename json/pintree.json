@@ -295,6 +295,13 @@
             "title": "源码搜索",
             "icon": "https://grep.app/",
             "url": "https://grep.app"
+          },
+          {
+            "type": "link",
+            "addDate": 1719819331000,
+            "title": "流程图",
+            "icon": "https://drawio.jons.ip-ddns.com",
+            "url": "https://drawio.jons.ip-ddns.com"
           }
         ]
       },
