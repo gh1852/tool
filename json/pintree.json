@@ -442,6 +442,13 @@
             "title": "香蕉提示词",
             "icon": "https://image-generation.zenfeed.xyz",
             "url": "https://image-generation.zenfeed.xyz"
+          },
+          {
+            "type": "link",
+            "addDate": 1718184169000,
+            "title": "竞技场2",
+            "icon": "https://www.kiira.ai",
+            "url": "https://www.kiira.ai"
           }
         ]
       }
