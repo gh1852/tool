@@ -9,6 +9,13 @@
         "addDate": 1722478895362,
         "title": "tool",
         "children": [
+		  {
+            "type": "link",
+            "addDate": 1655263699000,
+            "title": "个人技术文档",
+            "icon": "https://alog.zone.id",
+            "url": "https://alog.zone.id"
+          },
           {
             "type": "link",
             "addDate": 1655263699000,
