@@ -236,6 +236,13 @@
           {
             "type": "link",
             "addDate": 1719819331000,
+            "title": "py.kg域名",
+            "icon": "https://nic.py.kg/favicon.ico",
+            "url": "https://nic.py.kg"
+          }
+          {
+            "type": "link",
+            "addDate": 1719819331000,
             "title": "让你随时随地快速、安全地分享文件夹",
             "icon": "https://folderport.com/favicon.ico",
             "url": "https://folderport.com/zh"
