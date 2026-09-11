@@ -477,6 +477,13 @@
             "title": "ZEN/FREE",
             "icon": "https://zen.serverholdplease.lol",
             "url": "https://zen.serverholdplease.lol/status"
+          },
+          {
+            "type": "link",
+            "addDate": 1718184169000,
+            "title": "噜皮生图",
+            "icon": "https://image.mlgb7.com",
+            "url": "https://image.mlgb7.com"
           }
         ]
       }
